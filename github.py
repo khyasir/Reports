@@ -1,7 +1,7 @@
 import os
 import time
  
-os.chdir('/home/odoo/Downloads/NitroShare/coomon_reports_yasir/')
+os.chdir('/home/odoo/Downloads/NitroShare/coomon_reports_yasir')
 os.system('git init')
 os.system('git remote add origin https://github.com/khyasir/Reports.git')
 os.system('git add *')
